@@ -1,6 +1,6 @@
 ---
 title: "Resource List"
-date: 2022-01-01
+date: 2021-12-31
 layout: post
 ---
 
