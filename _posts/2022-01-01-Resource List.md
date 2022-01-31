@@ -11,6 +11,10 @@ This page will be a master list of resources (e.g. video lectures, books, papers
 # General Deep Learning
 
 
+## Papers/books
+
+- [[Mathematics for machine learning]](https://mml-book.github.io/book/mml-book.pdf)
+
 ## Video Lectures
 
 - [Deep learning course - NYU '21](https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI). Taught by Yann LeCun(!) and Alfredo Canziani, and hosted on the latter's youtube channel. IMO this whole series is highly worth a watch if you have time, even if you are a seasoned DL researcher (especially Yann's lectures). 
