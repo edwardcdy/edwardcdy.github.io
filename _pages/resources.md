@@ -1,7 +1,8 @@
 ---
-title: "Resource List"
-date: 2021-12-31
-layout: post
+permalink: /resources
+layout: page
+title: Resource List
+
 ---
 
 This page will be a master list of resources (e.g. video lectures, books, papers, etc.). Most of these should just be useful links, the actual content and my summaries will be in posts.
@@ -21,7 +22,7 @@ This page will be a master list of resources (e.g. video lectures, books, papers
 - [Statistical Machine Learning - Tubingen '20](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC). This is traditional machine learning, so very low on my priorities list to finish, but looks interesting.
 - [Deep learning for NLP - Stanford '21](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) A classic course from Stanford, one of many years with video lectures on Youtube.
 - [2019 summer school - math of machine learning](https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=1) Really cool playlist for more theoretical concepts
-
+- [[2020 UT Austin Optimization]](https://www.youtube.com/watch?v=ee-HYD6kKqM&list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)
 ## Websites
 
 - [Depth First Learning](https://www.depthfirstlearning.com/) Self-contained curriculum over various topics, e.g. optimization, the sigmoid, variational inference
