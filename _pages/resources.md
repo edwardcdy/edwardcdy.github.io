@@ -1,7 +1,7 @@
 ---
 permalink: /resources
 layout: page
-title: Resource List
+title: Resources
 
 ---
 

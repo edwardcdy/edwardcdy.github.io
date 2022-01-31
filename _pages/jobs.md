@@ -1,7 +1,7 @@
 ---
 permalink: /jobs
 layout: page
-title: Job/Positions to check out
+title: Jobs
 ---
 
 
