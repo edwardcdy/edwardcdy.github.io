@@ -21,15 +21,21 @@ This page will be a master list of resources (e.g. video lectures, books, papers
 - [Deep learning course - NYU '21](https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI). Taught by Yann LeCun(!) and Alfredo Canziani, and hosted on the latter's youtube channel. IMO this whole series is highly worth a watch if you have time, even if you are a seasoned DL researcher (especially Yann's lectures). 
 - [Statistical Machine Learning - Tubingen '20](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC). This is traditional machine learning, so very low on my priorities list to finish, but looks interesting.
 - [Deep learning for NLP - Stanford '21](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) A classic course from Stanford, one of many years with video lectures on Youtube.
-- [2019 summer school - math of machine learning](https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=1) Really cool playlist for more theoretical concepts
 - [[2020 UT Austin Optimization]](https://www.youtube.com/watch?v=ee-HYD6kKqM&list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)
+- [Berkeley Deep Unsupervised learning, Peter Abbiel](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+
+
 ## Websites
 
 - [Depth First Learning](https://www.depthfirstlearning.com/) Self-contained curriculum over various topics, e.g. optimization, the sigmoid, variational inference
 
 
 
+# Statistical Learning Theory
 
+## Video Lectures
+- [MIT CBMM](https://www.youtube.com/watch?v=EXhOuehvPAw&list=PLyGKBDfnk-iAtLO6oLW4swMiQGz4f2OPY)
+- [2019 summer school - math of machine learning](https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=1) Really cool playlist for more theoretical concepts
 
 
 # Computer Vision
@@ -120,7 +126,8 @@ This page will be a master list of resources (e.g. video lectures, books, papers
 - [[Conformer '20]](https://arxiv.org/pdf/2005.08100.pdf) Conformer: Convolution-augmented Transformer for Speech Recognition
 - [[Xie '21]](https://papers.labml.ai/api/v1/redirect/pdf?paper_key=762cac04c27911eb80dc0bd1877e23b6) SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers
 
-
+### Websites
+- [[Transformers article]](https://transformer-circuits.pub/2021/framework/index.html)
 
 # Miscellaneous
 

@@ -4,6 +4,8 @@ author: "Edward Yao"
 
 theme: minima
 
+markdown: kramdown
+
 base_url: /gh-pages-minima-starter
 
 # Minima social links
